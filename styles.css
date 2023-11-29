@@ -1,6 +1,10 @@
 	body{
 	background-color: rgb(204, 204, 204)
 	}
+div{
+	border: 1px; 
+	background: white;
+}
 	h1, h2{
 	text-align: center
 	}
